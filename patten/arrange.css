@@ -1,0 +1,41 @@
+
+.helo{
+    text-align: center;
+    border:  transparent;
+    color: rgb(175, 240, 253);
+    background-image:url(./ggg.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 35%;
+margin-left: auto;
+margin-right: auto;
+background-position: center;
+background-size: cover;
+
+
+}
+table,tr,td{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color:rgb(183, 174, 203);
+    border: transparent;
+    background-image: url(ss.jpg);
+    background-position: center;
+background-size: cover;
+    
+}
+table,tr,td{
+    
+    
+   
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: max-content;
+    height: max-content;
+    width: 35%;
+    height: 60%;
+}
+
+

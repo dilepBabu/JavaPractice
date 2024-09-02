@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: url(rr.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 300%;
+    color:aquamarine
+    
+    
+   
+}
+table,th{
+    border: 2px solid rgb(255, 255, 255);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: aqua;
+
+}
